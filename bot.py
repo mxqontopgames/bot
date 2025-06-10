@@ -26,7 +26,7 @@ async def ping(ctx):
 
 # Run the bot
 # You can either use an environment variable:
-bot.run("MTM4MTgxOTM3NDc3MTUwNzIzMA.GqXVB5.lUyxIpm0QCR_9Bl3OAa2iH2zlUWr3yuvaj-drg")
+bot.run()
 
 # OR (for testing only), paste the token directly — but DO NOT share it:
 # bot.run("YOUR_BOT_TOKEN_HERE")
