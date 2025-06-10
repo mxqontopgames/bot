@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: discord-bot
+    env: python
+    buildCommand: ""
+    startCommand: "python bot.py"
